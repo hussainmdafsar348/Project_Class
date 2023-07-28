@@ -1,0 +1,23 @@
+h2{
+    background-color: grey;
+    font-size: 20px;
+}
+
+
+.emai-pho{
+    
+    text-align: right;
+}
+
+.profile-pic{
+    
+    /* margin-left: auto; */
+    width: 100%;
+    text-align: right;
+
+    
+}
+.company-heading{
+    display:flex;
+    justify-content: space-between;
+}
